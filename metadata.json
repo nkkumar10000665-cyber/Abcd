@@ -1,0 +1,6 @@
+{
+  "name": "恐龙学习工作台 - 儿童每日计划与打卡",
+  "description": "专为儿童设计的恐龙学习工作台与每日计划应用，涵盖每日打卡、语文背诵与听写、数学口算打卡、英语单词与双语阅读、运动打卡、趣味闯关游戏、恐龙养成互动、积分奖励兑换与错题复习本。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
